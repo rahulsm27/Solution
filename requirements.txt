@@ -1,0 +1,6 @@
+tabula_py
+tabulate
+boto3
+ipykernel
+img2table
+requests
