@@ -4,3 +4,12 @@ boto3
 ipykernel
 img2table
 requests
+matplotlib
+pandas
+numpy
+seaborn
+pytesseract
+pillow
+opencv-python
+paddleocr
+paddlepaddle

@@ -6,7 +6,8 @@
 
 3. pip install -r requirements.txt
 
-Check FinalSolution.ipynb file
+Check FinalSolution.ipynb file for extraction from PDF
+Check paddlecor.ipynb file for extraction from image
 
 
 ## Video Solution link
